@@ -1,2 +1,2 @@
-# portfolio2.0
+# React Portfolio
 updated personal portfolio created with react
